@@ -275,16 +275,87 @@ Platzhalter: {games} {kos}
 
 Platzhalter: {name}
 
+- {name} gewinnt zwei in Folge. Die Konkurrenz notiert mit.
+- Zwei Siege am Stück: {name}. Noch kein Trend, sagt {name}.
+- {name} mit dem zweiten Sieg in Folge. Die Allianzen formieren sich.
+- Formkurve zeigt nach oben: {name} gewinnt erneut.
+- {name} legt nach. Zwei von zwei.
+- Doppelschlag: {name}. Der Tisch ist gewarnt.
+- {name} gewinnt wieder. Erste Beschwerden gehen ein.
+- Zweiter Sieg in Folge für {name}. Die Analysten werden unruhig.
+- {name} baut eine Serie auf. Nächstes Spiel: alle gegen einen?
+- {name}: zwei Siege, null Demut.
 
 ## tv_streak_broken
 
 Platzhalter: {name} {n} {breaker}
 
+- SERIE GERISSEN: {breaker} stoppt {name} nach {n} Siegen.
+- Die Serie von {name} endet bei {n}. Täter: {breaker}.
+- AUS NACH {n} SIEGEN: {NAME}. {BREAKER} ÜBERNIMMT DIE VERANTWORTUNG.
+- Die Serie von {name} ist Geschichte. {breaker} bittet um Applaus.
+- {n} Siege, dann kam {breaker}. So schnell geht das.
+- {breaker} beendet die Ära {name}. Sie dauerte {n} Spiele.
+- SERIE GERISSEN. {NAME} SPRICHT VON EINER MOMENTAUFNAHME.
+- {name} nach {n} Siegen gestoppt. Die Hütte atmet auf.
+- Dienstschluss für {name}: Serie endet bei {n} Siegen.
+- {n} Siege in Folge, jetzt die Niederlage. {name} prüft die Starthand.
 
 ## tv_quiet
 
 Platzhalter: {players} {m}
 
+- Minute {m}. Noch alle am Leben.
+- {m} Minuten, kein KO. {players} spielen auf Sicherheit.
+- Minute {m}: alle noch da. Die Friedhöfe füllen sich trotzdem.
+- Nach {m} Minuten weiterhin keine Opfer. Die Regie ist besorgt.
+- Lange Partie: {players}, {m} Minuten, null KOs.
+- Minute {m}. Es wird viel gedroht, wenig geliefert.
+- {m} Minuten Stellungskrieg. {players} warten auf den Fehler der anderen.
+- Kein KO nach {m} Minuten. Die Politik läuft auf Hochtouren.
+- Minute {m}. {players} sind noch vollzählig. Ungewöhnlich.
+- Zwischenstand nach {m} Minuten: alle drin, keiner raus, viele Pläne.
 
 ## tv_magic — Wusstest du: Magic-Witze
+
+- Ein Mulligan ist eine zweite Chance für denselben Fehler.
+- Die meisten Board Wipes treffen zuerst das eigene Board.
+- „Ich mach nichts“ ist die gefährlichste Ansage am Tisch.
+- Jeder Counterspell wartet auf die falsche Karte.
+- Ein Sol Ring im ersten Zug gilt rechtlich als Drohung.
+- Der Stack ist der einzige Ort, an dem Reihenfolge zählt.
+- Rote Decks lesen keine Karten. Sie zählen Schaden.
+- Blaue Spieler sagen „Okay“ und meinen „noch nicht“.
+- Grüne Decks halten Rampen für eine Wincon.
+- Weiße Decks haben für alles eine Regel. Auch für dich.
+- Schwarze Decks bezahlen alles mit Leben. Auch die Stimmung.
+- Ein Tutor findet immer genau die Karte, die alle fürchten.
+- Die Archenemy-Rolle wird nie vergeben. Nur verdient.
+- Ein Commander-Spiel dauert so lang wie die kürzeste Geduld.
+- Jede Infinite-Combo braucht einen Zug mehr als gedacht.
+- Ein Removal auf den falschen Spieler ist auch eine Botschaft.
+- Lebenspunkte sind eine Ressource, bis sie fehlen.
+- Die Starthand ist schuld. Die Deckliste nie.
+- Ein „Ich passe“ ohne Blickkontakt ist verdächtig.
+- Die meisten Bündnisse halten genau einen Angriff lang.
+- Wer zuerst Ramp spielt, wird zuerst angegriffen.
+- Der Friedhof ist für manche Decks nur ein Zwischenlager.
+- Die Commander-Tax ist auch ein Charakterzeugnis.
+- Wer laut rechnet, hat meistens schon verloren.
+- „Hat jemand eine Antwort?“ ist keine Frage.
+- Ein Wrath ist ein Neustart ohne Zustimmung der anderen.
+- Phyrexianisches Mana ist eine Kreditkarte.
+- Wer Fog spielt, verschiebt nur die Diskussion.
+- Kein Plan überlebt den ersten Cyclonic Rift.
+- Regel 0 ist die einzige, an die sich alle erinnern.
+- Ein Bracket ist eine Selbsteinschätzung. Keine Garantie.
+- Wer zuerst „kein Combo-Deck“ sagt, spielt eins.
+- Commander-Schaden wird erst gezählt, wenn es zu spät ist.
+- Ein Token ist eine Kreatur mit weniger Selbstwert.
+- Der beste Block ist der, den keiner kommen sah.
+- Ein Draw-Step ohne Land ist eine Lebenslektion.
+- Jede Deckliste ist ein Kompromiss mit dem Budget.
+- Die Karte, die du brauchst, liegt unten im Deck. Statistisch belegt.
+- Wer „nur kurz“ seinen Zug erklärt, braucht zehn Minuten.
+- Ein Extrazug ist ein Zug, den alle anderen mitbezahlen.
 
