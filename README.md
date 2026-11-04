@@ -22,7 +22,8 @@ Trocken, überorganisiert, ernsthaft unbeeindruckt: normale Sprache für eine v�
 - Toasts etwa 1 von 20, Fake Loot 1 von 50 und höchstens einmal am Tag.
 - KO-Toast nur auf dem Handy, das tippt: wer rauswirft, bekommt KO; wer den eigenen KO einträgt, Raus oder Aufgabe; alle anderen nichts.
 - Crits geben keine Extrapunkte.
-- Daten-Zeilen erst ab 10 Spielen im Event und 5 für die Person, nie am ersten Tag des ersten Geekends.
+- Daten-Zeilen erst ab 10 Spielen insgesamt (frühere Geekends zählen mit) und 5 für die Person, nie am ersten Tag des ersten Geekends. Deck-Zeilen ab 5 Spielen mit dem Deck. Eine Zeile erscheint nur, wenn alle ihre Platzhalter einen Wert haben: `{wins}` erst ab 2 Siegen, `{dry}` (Spiele seit dem letzten Sieg) ab 3, `{n}`/`{v}` und `{k}` ab 2.
+- Nemesis und Interne Daten nur auf dem eigenen Profil (die Zeilen sagen „du“).
 - Ernst bleibt: Login, Passkeys, Sessions, Admin, Push-Einstellungen, Lösch-Bestätigungen.
 
-`data.md` und `ohne-slot.md` haben noch keinen Platz in der App.
+`ohne-slot.md` hat noch keinen Platz in der App.
