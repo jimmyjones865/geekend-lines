@@ -2,6 +2,8 @@
 
 ## app_data_start — Stat-Zeile im Start-Untertitel
 
+Wo: Startseiten-Untertitel, im selben Wurf wie die Start-Zeilen: an Tagen ohne passende Start-Situation immer, sonst bei der Hälfte. Eine Person, die heute vorn liegt bei KOs, Selbst-KOs, Siegen oder Stunden ohne Sieg ({h}).
+
 Platzhalter: {name} {games} {kos} {selfko} {wins} {h}
 
 - Tischschreck: {name}, {kos} KOs bisher.
@@ -26,6 +28,8 @@ Platzhalter: {name} {games} {kos} {selfko} {wins} {h}
 
 ## app_data_nemesis — Nemesis und KO (Profil, Rivalen)
 
+Wo: Eigenes Profil, Karte „Rivalen“. {nemesis} wirft dich am häufigsten raus ({n} Mal), du {victim} ({v} Mal); je ab 3.
+
 Platzhalter: {nemesis} {n} {victim} {v}
 
 - {nemesis} hat dich schon {n}× rausgeworfen. Therapie?
@@ -49,6 +53,8 @@ Platzhalter: {nemesis} {n} {victim} {v}
 - {victim} wurde {v}× aus der Sitzung entlassen.
 
 ## app_data_deck — Deck-Unterzeile
+
+Wo: Unter dem Decknamen in der Deckliste und auf der Deckseite, ab 5 Spielen mit dem Deck. {dry} = Spiele seit dem letzten Sieg.
 
 Platzhalter: {games} {wins} {dry}
 
@@ -76,6 +82,8 @@ Platzhalter: {games} {wins} {dry}
 
 ## app_data_intern — Interne Daten (Profil-Statistik)
 
+Wo: Eigenes Profil, Statistik-Karte, kleine Zeile „Interne Daten“. {m} = durchschnittliche Minute des eigenen Ausscheidens, {victim} = Lieblingsopfer, {p} = Prozent Spiele ohne Sieg.
+
 Platzhalter: {m} {victim} {p}
 
 - Durchschnittlich {m} Minuten bis zum KO.
@@ -100,6 +108,8 @@ Platzhalter: {m} {victim} {p}
 
 ## app_data_commander — Commander-Trivia
 
+Wo: Kopf der Commander-Seite, ein Commander mit 3+ Spielen. {name} = wer ihn am häufigsten spielt ({k} Spiele, ab 2).
+
 Platzhalter: {cmd} {games} {wins} {k} {name}
 
 - {cmd} war {games}× am Tisch.
@@ -123,6 +133,8 @@ Platzhalter: {cmd} {games} {wins} {k} {name}
 - {cmd} wurde {games}× gewählt. Die Alternativen bleiben unbekannt.
 
 ## app_data_report — Geekend-Bericht (nach Abschluss)
+
+Wo: Seite eines abgeschlossenen Geekends, Block „Geekend-Bericht“: drei verschiedene Zeilen, fest pro Geekend. {e} = Name des Geekends, {champ} = Sieger, {killer} = meiste KOs, {victim} = am häufigsten raus, {quote} = ein Zitat aus den Erinnerungen.
 
 Platzhalter: {e} {games} {kos} {selfko} {champ} {killer} {victim} {quote}
 

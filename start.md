@@ -2,6 +2,8 @@
 
 ## app_start_morning — Morgens
 
+Wo: 5–11 Uhr.
+
 - Moin, Planeswalker.
 - Untap, Upkeep, Kaffee.
 - Der Tisch ist noch warm.
@@ -26,6 +28,8 @@
 - Heute wird wieder Geschichte falsch erinnert.
 
 ## app_start_night — Nach Mitternacht
+
+Wo: 0–5 Uhr.
 
 - Technisch gesehen ist noch gestern.
 - Geh schlafen. Oder noch eine Runde?
@@ -52,6 +56,8 @@
 
 ## app_start_first — Erster Tag
 
+Wo: Erster Geekend-Tag, ab 11 Uhr.
+
 - Runde eins. Alle noch Freunde.
 - Mischt eure Decks. Sucht eure Würfel.
 - Noch hat niemand Schuld.
@@ -76,6 +82,8 @@
 - Die ersten Snacks werden bereits vermisst.
 
 ## app_start_last — Letzter Tag
+
+Wo: Letzter Geekend-Tag, ab 11 Uhr.
 
 - Packt die Sleeves ein.
 - Letzte Runde. Sagt ihr jedes Mal.

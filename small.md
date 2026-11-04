@@ -2,6 +2,8 @@
 
 ## app_login — Login
 
+Wo: Login-Seite, unter der Überschrift. Für alle gleich (noch nicht eingeloggt), wechselt alle 4 Stunden.
+
 - Der Tisch wartet.
 - Mische noch einmal. Dann rein.
 - Hier wird getappt.
@@ -27,6 +29,8 @@
 
 ## app_finish_hint — Finish-Slider
 
+Wo: Laufendes Spiel, Text im Schieberegler, mit dem man das Spiel beendet (sonst „Spiel abschließen“). Fest pro Spiel und Person. Darf nicht zum vorzeitigen Beenden verleiten: das Spiel ist erst vorbei, wenn es vorbei ist.
+
 - Zum Beenden schieben.
 - Schieben, wenn alle tot sind.
 - Schieben. Der Friedhof wartet.
@@ -51,6 +55,8 @@
 - Ein letzter Zug für die Statistik.
 
 ## app_started_by — Gestartet von
+
+Wo: Laufendes Spiel, ersetzt bei ~1 von 3 den Text „Gestartet von X.“ {name} = wer gestartet hat. Fest pro Spiel und Person.
 
 Platzhalter: {name}
 
@@ -79,6 +85,8 @@ Platzhalter: {name}
 
 ## app_tip — Wusstest du (Mehr)
 
+Wo: Unten auf der Mehr-Seite, hinter „Wusstest du?“. Wechselt alle 4 Stunden.
+
 - Nochmal auf den Tag tippen nimmt einen Quest-Claim zurück.
 - Vergessene Spiele trägst du über „+ Nachtragen“ ein.
 - An jedes Deck passt ein Moxfield-, Archidekt- oder Cube-Cobra-Link.
@@ -103,6 +111,8 @@ Platzhalter: {name}
 - Ein Spielbericht ist die erwachsene Version von „Ich war das nicht“.
 
 ## app_page_end — Seitenende
+
+Wo: Ganz unten auf langen Seiten (über zwei Bildschirmhöhen). Wechselt alle 4 Stunden.
 
 - Mehr gibt's nicht. Geh spielen.
 - Ende. Du kannst jetzt mischen.
@@ -129,6 +139,8 @@ Platzhalter: {name}
 
 ## app_invite — Einladung
 
+Wo: Einladungsseite, die neue Leute über Link oder QR-Code öffnen, unter der Überschrift.
+
 - Du wurdest an den Tisch eingeladen.
 - Am Tisch ist noch ein Platz frei.
 - Dein Platz ist reserviert. Deck mitbringen.
@@ -153,6 +165,8 @@ Platzhalter: {name}
 - Willkommen im erweiterten Problemkreis.
 
 ## app_memories_empty — Start: Neu im Geekend, noch leer
+
+Wo: Startseite, Karte „Neu im Geekend“, solange es dort noch nichts Neues gibt. Lädt ein, eine Erinnerung festzuhalten.
 
 - Was darf nie vergessen werden?
 - Welcher Vorfall gehört in die Akte?

@@ -2,6 +2,8 @@
 
 ## app_404 — 404
 
+Wo: Überschrift der Seite „Nicht gefunden“. Der sachliche Text steht darunter.
+
 - Diese Seite wurde ins Exil geschickt.
 - Diese Seite ist im Friedhof.
 - Diese Seite wurde weggeshuffelt.
@@ -27,6 +29,8 @@
 
 ## app_upload_limit — Upload-Limit
 
+Wo: Überschrift, wenn jemand zu viele Fotos zu schnell hochlädt. Die genaue Erklärung steht darunter.
+
 - Langsam, du hast nur einen Zug.
 - Erst untappen, dann weiter hochladen.
 - Handkartenlimit erreicht. Kurz warten.
@@ -51,6 +55,8 @@
 - Deine Galerie hat Redebedarf.
 
 ## app_offline — Offline (Toast)
+
+Wo: Toast, wenn das Handy gerade keine Verbindung zum Server hat.
 
 - Kein Mana. Kein Netz.
 - Die Verbindung wurde gecountert.

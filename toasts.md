@@ -2,6 +2,8 @@
 
 ## app_toast_crit — Quest-Crit
 
+Wo: Quest abhaken: ~1 von 20 ist ein Crit, mit zweitem Konfetti-Stoß und dieser Zeile. Fest pro Person, Quest und Tag.
+
 - Kritischer Treffer!
 - Nat 20!
 - Foil gezogen!
@@ -28,6 +30,8 @@
 
 ## app_toast_ko — KO (du hast rausgeworfen)
 
+Wo: Laufendes Spiel, beim KO-Eintragen: wer für die Seite des Täters tippt. ~1 von 20.
+
 - Ab auf den Friedhof.
 - Das war persönlich.
 - Kein Regenerieren möglich.
@@ -52,6 +56,8 @@
 - Der nächste bitte.
 
 ## app_toast_out — Raus (du trägst deinen eigenen KO ein)
+
+Wo: Laufendes Spiel: wer den KO der eigenen Seite einträgt. ~1 von 20.
 
 - Selbstanzeige eingegangen.
 - Ehrlich eingetragen. Wird vermerkt.
@@ -78,6 +84,8 @@
 
 ## app_toast_concede — Aufgabe
 
+Wo: Laufendes Spiel: wer für die eigene Seite „Aufgeben“ tippt. ~1 von 20.
+
 - Scoop. Keine Schande.
 - Der Klügere zieht die Karten ein.
 - Auch eine Art Wincon. Für die anderen.
@@ -103,6 +111,8 @@
 
 ## app_toast_save — Speichern
 
+Wo: Nach dem Speichern eines Decks, einer Erinnerung oder einer Spiel-Änderung. ~1 von 20.
+
 - In den Stack gelegt.
 - Aufgelöst.
 - Kein Counter. Gespeichert.
@@ -127,6 +137,8 @@
 - Der Vorgang ist abgeschlossen.
 
 ## app_toast_loot — Fake Loot
+
+Wo: Nach irgendeinem anderen eigenen Eintrag. ~1 von 50, höchstens einmal am Tag pro Person. {name} = eine andere Person aus der Gruppe.
 
 Platzhalter: {name}
 

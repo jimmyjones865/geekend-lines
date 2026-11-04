@@ -2,6 +2,8 @@
 
 ## app_deck_nogames — Deck ohne Spiele
 
+Wo: Noch kein Platz. Gedacht: Deckseite eines Decks, mit dem noch nie gespielt wurde.
+
 - Theorie: 10/10. Praxistest: ausstehend.
 - Dieses Deck existiert bisher nur in deiner Vorstellung.
 - Noch ungeschlagen. Auch noch ungespielt.
@@ -24,6 +26,8 @@
 - Noch ungetestet. Die Präsentation war überzeugend.
 
 ## app_member_title — Member-Titel (Profil)
+
+Wo: Noch kein Platz. Gedacht: Titel unter dem Namen im Profil.
 
 - Tischschreck
 - Kaffeekocher
@@ -51,6 +55,8 @@
 
 ## app_pwa — PWA-Hinweis
 
+Wo: Noch kein Platz. Gedacht: Hinweis, die App auf den Home-Bildschirm zu legen.
+
 - Leg mich auf den Homescreen. Sonst geh ich ins Exil.
 - Ab in die Command Zone: zum Homescreen hinzufügen.
 - Zum Homescreen hinzufügen. Kostet null Mana.
@@ -75,6 +81,8 @@
 - Noch im Browser? Zum Homescreen hinzufügen.
 
 ## app_game_started — Spiel gestartet
+
+Wo: Noch kein Platz. Gedacht: Meldung, wenn ein Spiel gestartet wird.
 
 - Der Tisch ist eröffnet.
 - Karten auf den Tisch.

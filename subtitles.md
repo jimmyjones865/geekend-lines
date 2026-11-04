@@ -2,6 +2,8 @@
 
 ## app_sub_tabelle — Tabelle
 
+Wo: Unter der Überschrift der Tabelle (Punktestand).
+
 - Wer hier unten steht, hat Charakter.
 - Die Zahlen lügen nicht. Die Leute schon.
 - Punkte sind auch nur Mana mit Ego.
@@ -26,6 +28,8 @@
 - Die Tabelle kennt keine Freundschaftsdienste.
 
 ## app_sub_quests — Quests
+
+Wo: Unter der Überschrift der Quests-Seite.
 
 - Nebenquests. Hauptsache Punkte.
 - Manche Punkte gibt's auch ohne Karten.
@@ -52,6 +56,8 @@
 
 ## app_sub_spiele — Spiele
 
+Wo: Unter der Überschrift der Spiele-Liste.
+
 - Alle Beweise an einem Ort.
 - Wer hat angefangen? Steht hier.
 - Das Protokoll vergisst nichts.
@@ -76,6 +82,8 @@
 - Hier wird nichts beschönigt. Absichtlich.
 
 ## app_sub_fotos — Fotos
+
+Wo: Unter der Überschrift der Fotos-Seite.
 
 - Fotos hochladen. Oder Beweise.
 - Gutes Licht war nicht eingeplant.
@@ -102,6 +110,8 @@
 
 ## app_sub_erinnerungen — Erinnerungen
 
+Wo: Unter der Überschrift der Erinnerungen-Seite.
+
 - Was in der Hütte passiert, bleibt hier.
 - Zitate ohne Kontext, wie es sich gehört.
 - Für später, wenn keiner mehr weiß, warum.
@@ -126,6 +136,8 @@
 - Hier wird nichts aus Versehen vergessen.
 
 ## app_sub_decks — Decks
+
+Wo: Profil, Karte „Decks“, über der Deckliste.
 
 - 99 Karten, null Reue.
 - Alles getestet. Bestimmt.

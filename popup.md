@@ -2,6 +2,8 @@
 
 ## app_end_streak — Siegesserie
 
+Wo: Sieg, und es ist mindestens der 2. Sieg in Folge in diesem Geekend. {n} = Siege in Folge.
+
 Platzhalter: {n}
 
 - Serie läuft. Jemand sollte dich mal targeten.
@@ -30,6 +32,8 @@ Platzhalter: {n}
 
 ## app_end_firstwin — Erster Sieg des Tages
 
+Wo: Sieg, der erste der Person an diesem Spieltag.
+
 - Erster Sieg des Tages. Der Kaffee wirkt.
 - Untap, Upkeep, Sieg.
 - Der Tag hat offiziell angefangen.
@@ -55,6 +59,8 @@ Platzhalter: {n}
 - Der erste Sieg wird ins Protokoll aufgenommen.
 
 ## app_end_mostko — Meiste KOs
+
+Wo: Sieg, und die eigene Seite hat allein die meisten KOs verteilt (mindestens 2). {n} = KOs.
 
 Platzhalter: {n}
 
@@ -85,6 +91,8 @@ Platzhalter: {n}
 
 ## app_end_alone — Allein gegen alle
 
+Wo: Sieg als Einzelspieler, während eine andere Seite ein Team mit 2+ Leuten war.
+
 - Einer gegen alle – und alle verloren.
 - Archenemy, nur ohne Schemes.
 - Zahlen sind überbewertet.
@@ -111,6 +119,8 @@ Platzhalter: {n}
 
 ## app_end_self — Selbst-KO
 
+Wo: Die Person hat sich selbst rausgeworfen (nicht aufgegeben). Gewinnen oder verlieren egal.
+
 - Selbstgeißelung: eine Kunstform.
 - Der gefährlichste Gegner warst du.
 - Fetchland zu oft geknackt?
@@ -136,6 +146,8 @@ Platzhalter: {n}
 
 ## app_end_firstout — Erster raus
 
+Wo: Als Erste raus, bei mindestens 3 Seiten; nicht durch Selbst-KO.
+
 - Erster raus, erster am Kühlschrank.
 - Mehr Zeit zum Zuschauen und Kommentieren.
 - Du hast den Tisch nur aufgewärmt.
@@ -160,6 +172,8 @@ Platzhalter: {n}
 - Du hast den anderen die Arbeit überlassen.
 
 ## app_end_long — Langes Spiel (> 2 h)
+
+Wo: Spiel dauerte über 2 Stunden. {h} = Stunden, gerundet.
 
 Platzhalter: {h}
 
@@ -188,6 +202,8 @@ Platzhalter: {h}
 
 ## app_end_short — Kurzes Spiel (< 20 min)
 
+Wo: Spiel dauerte unter 20 Minuten.
+
 - Speedrun. Hat überhaupt jemand gemischt?
 - Schneller vorbei als das Mischen.
 - cEDH-Vibes.
@@ -212,6 +228,8 @@ Platzhalter: {h}
 - Die Runde hat nicht mal Anlauf genommen.
 
 ## app_end_win — Sieg
+
+Wo: Sieg, keine andere Situation passt.
 
 - Der Tisch liegt dir zu Füßen.
 - GG. Zumindest für dich.
@@ -238,6 +256,8 @@ Platzhalter: {h}
 - Der Spielbericht klingt in deiner Version besser.
 
 ## app_end_loss — Niederlage
+
+Wo: Niederlage, keine andere Situation passt.
 
 - Mulligan aufs Leben.
 - Das Deck war schuld.

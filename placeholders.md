@@ -2,6 +2,8 @@
 
 ## app_ph_quote — Zitat
 
+Wo: Erinnerung anlegen, Typ Zitat: grauer Beispieltext im leeren Textfeld. Zeilen mit {name} erscheinen noch nie (das Feld wird vor der Sprecherwahl gefüllt).
+
 Platzhalter: {name}
 
 - Was hat {name} diesmal behauptet?
@@ -29,6 +31,8 @@ Platzhalter: {name}
 
 ## app_ph_moment — Moment
 
+Wo: Erinnerung anlegen, Typ Moment: grauer Beispieltext im leeren Textfeld.
+
 - Was war da los?
 - Was darf nie vergessen werden?
 - Wer hat den Tisch umgeworfen?
@@ -54,6 +58,8 @@ Platzhalter: {name}
 
 ## app_ph_theme — Deck-Thema
 
+Wo: Deck anlegen/bearbeiten, Feld „Thema“: grauer Beispieltext. Kurz, Stichworte statt Sätze.
+
 - Kontrolle, Chaos, Reue
 - Goblins, nur Goblins
 - Dreißig Rampen, eine Karte
@@ -78,6 +84,8 @@ Platzhalter: {name}
 - Ein Commander, viele offene Fragen
 
 ## app_ph_item — Einkauf
+
+Wo: Einkaufsliste, Feld für einen neuen Artikel: grauer Beispieltext. Kurz.
 
 - Noch mehr Sleeves
 - Kaffee, sonst Mulligan
