@@ -151,3 +151,19 @@ Platzhalter: {name}
 - Bring Karten. Der Rest wird improvisiert.
 - Deine Akte wird angelegt.
 - Willkommen im erweiterten Problemkreis.
+
+## app_memories_empty — Start: Neu im Geekend, noch leer
+
+- Was darf nie vergessen werden?
+- Welcher Vorfall gehört in die Akte?
+- Was wird die Hütte nie vergessen?
+- Was muss für später festgehalten werden?
+- Welcher Moment braucht Zeugen?
+- Was wird in sechs Monaten noch diskutiert?
+- Welche Ausrede soll verewigt werden?
+- Der Satz braucht einen Zeugen.
+- Welcher Satz war zu gut, um ihn zu vergessen?
+- Welche Aussage wird morgen bestritten?
+- Manche Dinge gehören ins Protokoll.
+- Damit es niemand abstreiten kann.
+- Die Hütte hat ein Langzeitgedächtnis.
