@@ -41,6 +41,36 @@ Wo: Laufendes Spiel, Text im Schieberegler, mit dem man das Spiel beendet (sonst
 - Der letzte Klick gehört der Geschichte.
 - Hier endet die Zuständigkeit.
 - Ein letzter Zug für die Statistik.
+- Erst schieben, wenn es wirklich vorbei ist.
+- Vorbei ist vorbei. Dann schieben.
+- Nur für amtlich beendete Spiele.
+- Schlussstrich ziehen.
+- Akte schließen.
+- Sitzung schließen.
+- Schieben, wenn der Letzte steht.
+- Erst wenn sich der Staub legt.
+- Hier wird das Ergebnis amtlich.
+- Schieben heißt: Ergebnis unterschreiben.
+- Unterschrift unter das Protokoll.
+- Ab hier zählt die Statistik.
+- Schieben, wenn keiner mehr widerspricht.
+- Schieben, wenn alle Trigger aufgelöst sind.
+- Schieben, wenn der Sieger feststeht.
+- Wenn es vorbei ist: hier entlang.
+- Spiel zu den Akten legen.
+- Bericht abschließen.
+- Ergebnis zur Tabelle schicken.
+- Ende der Partie beurkunden.
+- Erst wenn nichts mehr auf dem Stack liegt.
+- Letzter Tagesordnungspunkt: das Ende.
+- Nach dem letzten KO schieben.
+- Erst gewinnen, dann schieben.
+- Schieben, wenn nur noch einer lacht.
+- Das Ende gehört ins Protokoll.
+- Der Ausschuss nimmt das Ergebnis entgegen.
+- Abschluss nur bei eindeutiger Lage.
+- Kein Antrag mehr offen? Dann schieben.
+- Der Tisch hat entschieden. Jetzt du.
 
 ## app_started_by — Gestartet von
 
@@ -70,6 +100,30 @@ Platzhalter: {name}
 - {name} hat die Runde auf die Tagesordnung gesetzt.
 - Der Startschuss ging von {name} aus.
 - {name} hat den Betrieb aufgenommen.
+- Einberufen von {name}.
+- Initiiert von {name}.
+- Ausgerufen von {name}.
+- Auf Antrag von {name}.
+- Federführend: {name}.
+- Zuständig für den Beginn: {name}.
+- Die Akte eröffnete {name}.
+- Ins Leben gerufen von {name}.
+- {name} hat die Partie angemeldet.
+- Angestiftet von {name}.
+- Anstifter: {name}.
+- {name} hat zur Runde geladen.
+- {name} hat die Teilnehmer versammelt.
+- Organisiert von {name}. Mehr oder weniger.
+- Gestartet von {name}. Die Folgen trägt der Tisch.
+- Den Knopf drückte {name}.
+- {name} hat angefangen. Merkt euch das.
+- Die Hütte dankt {name} für die Einberufung.
+- Projektleitung: {name}.
+- Veranstalter: {name}.
+- Hauptverdächtig: {name}.
+- {name} hat das hier angefangen.
+- Eingetragen von {name}. Die Haftung auch.
+- {name} hat die Sitzung eröffnet. Protokoll läuft.
 
 ## app_tip — Wusstest du (Mehr)
 

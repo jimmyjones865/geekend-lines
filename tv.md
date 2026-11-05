@@ -183,6 +183,117 @@ Wo: Wusstest-du-Fenster: Witze über Magic.
 - Die Karte, die du brauchst, liegt unten im Deck. Statistisch belegt.
 - Wer „nur kurz“ seinen Zug erklärt, braucht zehn Minuten.
 - Ein Extrazug ist ein Zug, den alle anderen mitbezahlen.
+- Ein Lightning Bolt löst ein Problem. Meistens das falsche.
+- „Zwei Länder, aber Sol Ring“ ist der Anfang vieler Tragödien.
+- Wer sieben Länder auf der Hand behält, hat einen Plan. Keinen guten.
+- Jedes Deck hat eine Karte, die nie gezogen wird. Meistens die Wincon.
+- Ein Board Wipe ist Abrüstung. Nur unfreiwillig.
+- Die Studienlage ist eindeutig: Der Shuffle meint es persönlich.
+- Mana Screw ist keine Ausrede. Es ist eine Diagnose.
+- Mana Flood ist Mana Screw mit mehr Ländern.
+- Wer „Response?“ fragt, hat schon eine.
+- Der gefährlichste Spieler ist der mit dem leeren Board.
+- Ein offenes Island ist eine Drohung. Zwei sind eine Ansage.
+- Zwei offene blaue Mana kosten den Tisch zehn Minuten Grübeln.
+- Wer „die stirbt doch eh“ sagt, verliert gegen genau diese Kreatur.
+- Ein Hexproof-Commander ist ein Commander mit Anwalt.
+- Indestructible heißt nur: Jemand hätte Exile einpacken sollen.
+- Exile ist das Gegenteil von Hoffnung.
+- Swords to Plowshares ist ein großzügiges Rentenangebot.
+- Path to Exile ist ein Umzug mit Abfindung.
+- Ein Doom Blade ist eine sehr kurze Personalentscheidung.
+- Counterspell ist das magische Wort für „Nein“.
+- Ein Stax-Deck ist Verwaltung als Waffe.
+- Thassa's Oracle gewinnt Spiele. Beliebtheit nicht.
+- Slivers teilen alles. Außer die Schuld.
+- Elfen sind die Logistikabteilung des grünen Manas.
+- Goblins arbeiten im Akkord und sterben im Schichtbetrieb.
+- Zombies kommen immer wieder. Wie die Diskussion über Regel 0.
+- Drachen kosten sieben Mana und sehr viel Geduld.
+- Ein Eldrazi-Titan ist ein Spielende mit Anlauf.
+- Annihilator ist eine sehr direkte Form der Kündigung.
+- Ein Token-Deck ist eine Firma mit vielen Praktikanten.
+- Ein Aristocrats-Deck opfert alles. Außer die eigene Position.
+- Ein Voltron-Commander trägt das halbe Deck am Körper.
+- Deathtouch braucht nur einen Punkt Schaden. Effizienz.
+- Ein Chump-Block kauft genau einen Zug. Zum vollen Preis.
+- Flash heißt: Jemand hat die ganze Zeit nur gewartet.
+- Am Ende deines Zuges passiert nie nichts.
+- Der End Step ist der Lieblingsmoment aller blauen Spieler.
+- Der Upkeep ist die Phase, die alle vergessen. Bis es wehtut.
+- Die Untap-Phase ist die einzige Phase ohne Streit.
+- Wer „ich greife niemanden an“ sagt, greift gleich jemanden an.
+- Rhystic Study ist eine Steuer auf Ungeduld.
+- Smothering Tithe ist Abzocke. Aber legal.
+- Ein überladener Cyclonic Rift ist Frühjahrsputz für alle außer einem.
+- Ein Craterhoof Behemoth kommt nie allein. Er bringt die Rechnung mit.
+- Wer Chaos Warp spielt, mag Überraschungen. Für alle.
+- Magic wurde von einem Mathematiker erfunden. Das erklärt die Wahrscheinlichkeiten nicht.
+- Wizards hatte das Tappen einmal patentiert. Wirklich.
+- Commander hieß früher Elder Dragon Highlander. Das Kürzel EDH hat überlebt.
+- Es gibt über 25.000 verschiedene Magic-Karten. Keiner kennt alle. Alle tun so.
+- Ein Black Lotus kostet mehr als die meisten Autos vor der Hütte.
+- Die Reserved List schützt Karten vor dem Nachdruck. Geldbörsen schützt sie nicht.
+- Ein Proxy ist eine Karte mit ehrlichem Preis.
+- 99 Karten, ein Commander, null Ausreden.
+- Eine Deckliste besteht aus 99 Karten Hoffnung.
+- Singleton: Jede Karte nur einmal. Jeder Fehler beliebig oft.
+- 40 Leben klingen nach viel. Bis jemand anfängt zu rechnen.
+- 21 Commander-Schaden: die einzige Zahl, die plötzlich alle zählen.
+- Infect braucht zehn Giftmarken. Für 40 Leben fehlt die Geduld.
+- Der Monarch wechselt öfter als die Tabellenführung.
+- Die Initiative ist ein Dungeon, den keiner fertig spielt.
+- Die Comprehensive Rules haben über 200 Seiten. Gelesen hat sie, wer gerade recht hat.
+- Das Layer-System ist der Grund, warum Judges Kaffee trinken.
+- Jeder Regelstreit endet mit „Schauen wir nach“ und keinem, der nachschaut.
+- Die Karte sagt, was sie tut. Der Besitzer sagt, was sie meint.
+- Der Oracle-Text gilt. Der gedruckte Text ist eine Empfehlung.
+- Errata sind amtliche Korrekturen an Pappe.
+- Fetchlands mischen das Deck. Und die Lebenspunkte.
+- Shocklands kosten zwei Leben oder einen Zug. Bereut wird beides.
+- Basic Lands sind die ehrlichsten Karten im Deck.
+- Ein Deck mit 33 Ländern ist mutig. Mit 30 ist es eine Mutprobe.
+- Jede Karte mit „each opponent“ ist eine Kriegserklärung an alle.
+- „Target player“ heißt im Zweifel du.
+- Ein Deal am Commander-Tisch hält bis zum nächsten Untap.
+- Wer den Archenemy nicht angreift, wird der nächste.
+- Leere Hand, großes Lächeln: Da hat jemand einen Plan.
+- Mill gewinnt, wenn die Karten ausgehen. Meist geht vorher die Geduld aus.
+- Laboratory Maniac gewinnt mit leerem Deck. Ein Lebensmotto.
+- Storm zählt Zaubersprüche. Der Tisch zählt Minuten.
+- Ein Storm-Zug ist ein Monolog mit Karten.
+- Cascade lässt das Deck entscheiden. Wie sonst auch.
+- Chaos-Decks geben wenigstens zu, keinen Plan zu haben.
+- Ein Münzwurf ist die einzige faire Mechanik. Angeblich.
+- Ein Würfel am Tisch ist entweder Zähler oder Beweisstück.
+- Sleeves schützen die Karten. Vor dem Spiel schützt nichts.
+- Foils sind Karten mit Ego.
+- Foils wellen sich. Der Besitzer auch, wenn man sie anfasst.
+- Kartenpreise steigen genau nach dem Verkauf.
+- Wer eine Karte „nur für fünf Euro“ kauft, kauft zehn.
+- Jedes neue Set hat eine Karte, die dein Deck braucht. Natürlich.
+- Ein Precon ist ein Deck, das noch nicht weiß, wie teuer es wird.
+- Kein Deck ist je fertig. Nur vorübergehend gespielt.
+- Wer eine Karte erklärt, die keiner kennt, hat sie gerade gespielt.
+- Jede Karte ist irgendwo ein Commander. Leider.
+- Partner-Commander: zwei Köpfe, eine Ausrede.
+- Bracket 2 ist eine Absichtserklärung.
+- Die Game Changers stehen auf einer offiziellen Liste. Der Tisch führt eine eigene.
+- Ein Ban trifft nie das eigene Deck. Bis doch.
+- Die Ban-Liste ist kurz. Die Liste der Beschwerden nicht.
+- Wer zuerst raus ist, holt das Essen. Ungeschriebene Regel.
+- Wer raus ist, wird automatisch Kommentator.
+- Zuschauer am Commander-Tisch sehen alles. Und sagen es auch.
+- „Gleich, gleich“ heißt am Tisch: noch fünf Minuten.
+- Mischen ist auch Spielzeit.
+- Ein Mulligan auf fünf ist ein Charaktertest.
+- Der freie Mulligan ist das einzige Gratisessen in Magic.
+- Vier Spieler sind ein Spiel. Fünf ein Abend. Sechs ein Wochenende.
+- Ein guter Topdeck wird nur einmal erzählt. Pro Stunde.
+- Jeder hat eine Geschichte über den Zug, in dem er fast gewonnen hätte.
+- „Fast gewonnen“ zählt in keiner Tabelle.
+- Der Lebenspunkte-Zettel ist das wichtigste Dokument der Hütte.
+- Wer die Lebenspunkte notiert, hat die Macht.
 
 ## tv_flash_label — Eilmeldung-Label
 
@@ -360,6 +471,11 @@ Platzhalter: {killer} {victim} {n}
 - {killer} hat {victim} schon {n}× rausgeworfen.
 - {victim} ist schon {n}× an {killer} gescheitert. Persönlich nimmt das keiner.
 - {killer} gegen {victim}: {n} KOs. Immer in dieselbe Richtung.
+- Direktvergleich {killer} gegen {victim}: {n} KOs. Rückspiel offen.
+- {victim} hat ein {killer}-Problem. {n} KOs belegen es.
+- Ein Klassiker: {killer} gegen {victim}, schon {n}× mit demselben Ausgang.
+- {killer} findet {victim} an jedem Tisch. {n}× bisher.
+- Lieblingsgegner von {killer}: {victim}. {n} KOs.
 
 ## tv_fact_self — Fakt: Selbst-KOs
 
@@ -370,6 +486,10 @@ Platzhalter: {name} {n}
 - {name} hat sich schon {n}× selbst rausgeworfen.
 - {n} Selbst-KOs: {name}. Fremdeinwirkung ausgeschlossen.
 - {name} ist schon {n}× an {name} gescheitert.
+- Die Selbst-KO-Wertung führt {name} an: {n}.
+- {name}: {n} Selbst-KOs. Die Gegner bedanken sich.
+- Rekord in eigener Sache: {name}, {n} Selbst-KOs.
+- {n}× hat {name} sich selbst rausgeworfen. Die Ermittlungen sind eingestellt.
 
 ## tv_fact_first — Fakt: Erster raus
 
@@ -380,6 +500,10 @@ Platzhalter: {name} {n}
 - {name} war schon {n}× als Erstes raus.
 - {n}× zuerst raus: {name}. Irgendwer muss ja anfangen.
 - {name} kennt die Zuschauerbank: {n}× als Erstes raus.
+- Frühstarter der Liga: {name}, {n}× zuerst raus.
+- {name} hält den Rekord fürs frühe Aus: {n}×.
+- {n}× zuerst auf der Tribüne: {name}. Bester Blick aufs Spiel.
+- {name} war {n}× zuerst raus und hatte danach {n}× gute Tipps.
 
 ## tv_fact_commander — Fakt: Commander
 
@@ -390,6 +514,10 @@ Platzhalter: {cmd} {n} {w}
 - {cmd} saß schon {n}× am Tisch. Siege: {w}.
 - {cmd} wurde {n}× gespielt und hat {w}× gewonnen.
 - {n} Spiele mit {cmd}. Keiner redet drüber.
+- Dauerbrenner: {cmd}, {n} Spiele, {w} Siege.
+- {cmd} kommt auf {n} Einsätze. Siegquote: {w} von {n}.
+- Meistgespielter Commander: {cmd}. {n} Spiele, {w} Siege.
+- {cmd}: {n}× am Start, {w}× ganz vorn.
 
 ## tv_fact_long — Fakt: Längstes Spiel
 
@@ -400,6 +528,10 @@ Platzhalter: {m} {winner}
 - Das längste Spiel dauerte {m} Minuten.
 - Rekord: {m} Minuten bis zum Sieg von {winner}.
 - {m} Minuten. So lang ging das längste Spiel. Bereut hat es keiner.
+- Längste Partie seit Beginn der Aufzeichnungen: {m} Minuten. Am Ende jubelte {winner}.
+- {m} Minuten dauerte das längste Spiel. {winner} hatte offenbar Zeit.
+- Rekordspiel: {m} Minuten. Die Snacks haben nicht gereicht.
+- {winner} gewann das längste Spiel, nach {m} Minuten. Ausdauer zählt.
 
 ## tv_fact_total — Fakt: Gesamt
 
@@ -410,3 +542,7 @@ Platzhalter: {games} {kos}
 - Seit Beginn der Aufzeichnungen: {games} Spiele, {kos} KOs.
 - {games} Spiele sind eingetragen. Die Dunkelziffer ist höher.
 - {kos} KOs in {games} Spielen. Die Statistik dankt.
+- Bilanz aller Geekends: {games} Spiele, {kos} KOs.
+- {kos} KOs bisher. Jeder einzelne wurde bestritten.
+- {games} Spiele protokolliert. Die Akte wächst.
+- Gesamtstatistik: {games} Spiele. Gefühlt doppelt so viele.
