@@ -33,25 +33,13 @@ Wo: Laufendes Spiel, Text im Schieberegler, mit dem man das Spiel beendet (sonst
 
 - Zum Beenden schieben.
 - Schieben, wenn alle tot sind.
-- Schieben. Der Friedhof wartet.
-- Schieben, dann mischen.
 - Schieben, wenn der Stack leer ist.
-- Schieben. Danach keine Ausreden.
-- Schieben. Die Geschichte kennt kein Undo.
 - Ende bestätigen, Ausreden behalten.
-- Schieben, bevor jemand zurückrudert.
 - Einmal schieben, dann ist es Geschichte.
-- Der letzte Zug ist jetzt wirklich der letzte.
-- Das Spiel ist vorbei. Wirklich jetzt.
 - Keine Trigger mehr? Dann los.
-- Schieben statt diskutieren.
 - Einmal schieben, keine Nachverhandlungen.
-- Das Ergebnis ist reif für die Akte.
 - Der letzte Klick gehört der Geschichte.
-- Schluss jetzt. Die Küche wartet.
 - Hier endet die Zuständigkeit.
-- Schieben statt vertagen.
-- Das Spiel hat seine Sitzung beendet.
 - Ein letzter Zug für die Statistik.
 
 ## app_started_by — Gestartet von
